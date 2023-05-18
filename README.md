@@ -23,7 +23,7 @@
 
 [мой любимый фильм](https://www.kinopoisk.ru/film/86326/)
 ==========================================================
-[картинкаываывпвып](https://i.ytimg.com/vi/t0WogjCiO3g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAL0BYoCDAgAEAEYZSBbKEowDw==&rs=AOn4CLBL5Jsdt5J839pkSfVJY1LZoltcYA)
+![картинкаываывпвып](https://i.ytimg.com/vi/t0WogjCiO3g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAL0BYoCDAgAEAEYZSBbKEowDw==&rs=AOn4CLBL5Jsdt5J839pkSfVJY1LZoltcYA)
 ==========================================================
 
 :white_check_mark:Не сдавать лабы
